@@ -1,1 +1,3 @@
 # World_Weather_Analysis
+## Purpose 
+The repository is set up as a proof of concept for a potential travel app. Using 2,000 randomly generated coordinates we created a datatable of cities to travel to. By utilizing a few inputs and establishing a range of prefered temperatures we created a vacation search area and pulling hotel information for closest hotels to the coordinates. Then narrowing down the search area to a single country creating an itinerary for a trip with driving directions.
